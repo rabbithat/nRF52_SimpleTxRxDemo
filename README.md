@@ -9,7 +9,9 @@ operation, the received counter should match the transmitted counter.
 DIRECTIONS: 
   1. Load the current versions of the following files:
     i.   https://github.com/rabbithat/nRF52_delay_functions
+    
     ii.  https://github.com/rabbithat/nRF52_essential_definitions
+    
   2. Only after loading the above files, load this file.
   3. At the REPL prompt, type 'tx' to create a transmitting node, or 'rx' to create a receiver node. 
      For a proper demonstration you will need one node of each type.
