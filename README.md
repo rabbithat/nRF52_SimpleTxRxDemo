@@ -16,3 +16,5 @@ DIRECTIONS:
   2. Only after loading the above files, load this file.
   3. At the REPL prompt, type 'tx' to create a transmitting node, or 'rx' to create a receiver node. 
      For a proper demonstration you will need one node of each type.
+
+This code is a good starting point for beginners because it is already working. You can easily modify the code to do whatever transmitting and receiving you want.
