@@ -8,6 +8,7 @@ operation, the received counter should match the transmitted counter.
 
 DIRECTIONS: 
   1. Load the current versions of the following files:
+  
     i.   https://github.com/rabbithat/nRF52_delay_functions
     
     ii.  https://github.com/rabbithat/nRF52_essential_definitions
